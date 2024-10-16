@@ -1,0 +1,50 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+.assetstore/
+
+# Avoid storing auto-generated JetBrains Rider files
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+*.pdb
+
+# Uncomment if needed
+# [Bb]uild/
+# [Pp]roject[Ss]ettings/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# ============ #
+# Unity specific #
+# ============ #
+*.pidb.meta
+*.pidb
+*.unityproj
+*.tmproj
+
+# ============ #
+# ScriptableObject #
+# ============ #
+*.asset
